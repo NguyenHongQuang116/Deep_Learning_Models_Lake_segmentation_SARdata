@@ -6,4 +6,4 @@ Link to model checkpoint:
 
 
 For YOLO model we used the original code of the model developer, access this link:
-https://docs.ultralytics.com/
+https://github.com/ultralytics/ultralytics
