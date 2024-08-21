@@ -5,5 +5,5 @@ Link to Sentinel-1 data: https://www.dropbox.com/scl/fi/4tcr5z2z1na11i0tjb6d3/S1
 Link to model checkpoint: 
 
 
-For YOLO model access this link:
+For YOLO model we used the original code of the model developer, access this link:
 https://docs.ultralytics.com/
