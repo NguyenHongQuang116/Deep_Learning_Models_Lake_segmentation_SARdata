@@ -19,6 +19,5 @@ SAM_lake_fine_tunned_best_weight: https://drive.google.com/file/d/1i-mqE_ZqkR-ge
 For YOLO model we used the original code of the model developer, access this link:
 https://github.com/ultralytics/ultralytics
 
-Some functions used in the DeepLab models are learnt from https://learnopencv.com/about/
-Big thanks for that.
+We remove the DeepLab models from this repositories as it is only for comparision to the SAM purpose.
 
