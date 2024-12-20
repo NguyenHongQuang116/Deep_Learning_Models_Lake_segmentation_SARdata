@@ -1,4 +1,4 @@
-These are Jupyter Notebooks of fine-tunned SAM and DeepLab(ResNet50) for lake semantic segmentations using SAR images.
+These are Jupyter Notebooks of fine-tunned SAM for lake semantic segmentations using SAR images.
 
 For Independencies, please refer to the model instructions (SAM: https://segment-anything.com/).
 
