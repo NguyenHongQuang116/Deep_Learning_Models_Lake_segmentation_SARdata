@@ -19,5 +19,5 @@ SAM_lake_fine_tunned_best_weight: https://drive.google.com/file/d/1i-mqE_ZqkR-ge
 For YOLO model we used the original code of the model developer, access this link:
 https://github.com/ultralytics/ultralytics
 
-The fine-tunned SAM code was modify from https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-. Hence, other users should refer to this link to access original code.
+The SAM fine-tuned code was modify from https://github.com/ArminMoghimi/Fine-tune-the-Segment-Anything-Model-SAM-. Hence, other users should refer to this link to access original code.
 
